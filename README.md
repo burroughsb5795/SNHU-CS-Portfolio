@@ -4,3 +4,8 @@ I think I did a good job of making my code pretty simple. Although this was the 
 I believe that I could do a better job in making comments. My comments are pretty bare bonesed and just give the general gist of what a line is doing, but I could put more thought into it while doing the coding instead of adding them as an afterthought.
 Using maps was the most challenging. I wasn't really sure at first how to use the list provided efficiently, but through a lot of googling and time on StackOverflow I found this solution and it worked fantastically. It allowed my code to be much easier to read and efficient, and I will definitely be adding it to my arsenal from now on.
 The use of switch makes this project much easier to update later on down the line. You would just need to add another case in order to add a new command.
+
+
+CS300:
+
+This Course was incredibly challenging at the start, learning a bunch of new algos and data structures was overwhelming at first, as well as learning big O notation. Eventually, once all the groundwork was laid, I got the hang of everything and come time to create the final project I felt pretty comfortable with the material. I learned how important it is to understand data structures, so that we can always make the correct choice for a project. Choosing the correct structure insures that our code can run as efficiently as possible. I spent a lot of time on Stack Exchange in order to better understand the materials and really be able to break it down more thoroughly. 

@@ -9,3 +9,8 @@ The use of switch makes this project much easier to update later on down the lin
 CS300:
 
 This Course was incredibly challenging at the start, learning a bunch of new algos and data structures was overwhelming at first, as well as learning big O notation. Eventually, once all the groundwork was laid, I got the hang of everything and come time to create the final project I felt pretty comfortable with the material. I learned how important it is to understand data structures, so that we can always make the correct choice for a project. Choosing the correct structure insures that our code can run as efficiently as possible. I spent a lot of time on Stack Exchange in order to better understand the materials and really be able to break it down more thoroughly. 
+
+
+CS-250:
+
+For me, interpreting user needs is the most difficult part of coding. A lot of my issues in other courses have come from not understanding what it is that a question is asking of me, and user stories resolves that problem a lot. It makes all the information easily accessible and easy to understand, so that I can focus on what really matters, which is coding and solving the problem. Currently, I'm bad about just programming away, and then compiling at the end instead of iterating and working through a program slowly and making sure everything works. I think in the future I'll attempt to use some agile principles in order to ensure that once I start working on bigger projects I'm not making mistakes that I'm missing until the very end and then chasing my tail trying to find it. I think in order to be a good team member, you need to know what you want from others, what they want from you, and be able to communicate that effectively. 
